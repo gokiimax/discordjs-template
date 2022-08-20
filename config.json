@@ -1,0 +1,10 @@
+{
+    "token": "DISCORD BOT TOKEN",
+    "color": "#34a6ef",
+    "developerGuild": "DISCORD GUILD ID",
+    "activityInterval": 5,
+    "activities": [
+        "/invite | Watching {servercount} Server",
+        "Created by maxツ#8355"
+    ]
+}
