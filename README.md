@@ -28,8 +28,11 @@ npm run start
 ```
 
 ## 📖 Creator
-![](https://github.com/gokiimax.png)
-[gokimax](https://github.com/gokiimax)
+<a href="https://github.com/gokiimax">
+    <img src="https://github.com/gokiimax.png" alt="Profile">
+    <br>
+    gokimax
+</a>
 
 ## ☕️ Support & Socials
 My Template is open source and free to use. If you found any of my repos useful and would like to support my projects, feel free to donate to my bitcoin address.
