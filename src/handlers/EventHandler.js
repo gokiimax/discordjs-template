@@ -4,8 +4,6 @@ function loadEvents(client) {
     const fs = require('fs')
     const table = new ascii().setHeading("Events", "Type", "Status");
 
-    await client.events.clear();
-
     const folders = fs.readdirSync("./src/types/events");
     for( const folder of folders) {
         const files = fs.readdirSync(`./src/types/events/${folder}`).filter((file) => file.endsWith(".js"));  
